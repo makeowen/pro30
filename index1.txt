@@ -1,4 +1,4 @@
-1.连接远程仓库地址
+﻿1.连接远程仓库地址
 git remote add origin http:....
 2.推送到远程
 2.git push origin
@@ -11,3 +11,4 @@ git remote add origin http:....
     4.git commit -m '描述'
     5.git remote add origin 地址
     6.git push -u origin master
+测试
