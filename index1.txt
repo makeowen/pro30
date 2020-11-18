@@ -12,3 +12,4 @@ git remote add origin http:....
     5.git remote add origin 地址
     6.git push -u origin master
 测试12
+56
