@@ -1,1 +1,13 @@
-123
+1.连接远程仓库地址
+git remote add origin http:....
+2.推送到远程
+2.git push origin
+3最终推送：
+    git push -u origin master
+通过https上传：
+    1.创建远程git仓库
+    2.在本地创建git管理仓库 git init
+    3.git add .
+    4.git commit -m '描述'
+    5.git remote add origin 地址
+    6.git push -u origin master
